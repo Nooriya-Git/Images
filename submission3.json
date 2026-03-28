@@ -1,10 +1,6 @@
 {
   "prompt": "Gradient descent rendered as a 1930s WPA Federal Art Project poster. A lone hiker (representing the optimization algorithm) descends a stylized mountain landscape (the loss surface), with a glowing red point marking the valley minimum. Flat areas of unmodulated colour — muted teal, cream, and brick red — no gradients or photographic shading. Bold blocky sans-serif lettering reading 'FINDING THE MINIMUM'. Strong silhouette, heroic upward-looking composition. Screen-print aesthetic with visible registration marks. No photorealism.",
   "model": "DALL-E 3",
-  "concept": "gradient descent",
-  "tradition_name": "WPA Federal Art Project posters",
-  "tradition_period": "1935–1943",
-  "tradition_approach": "Flat unmodulated colour areas, limited 3-colour palette, bold blocky sans-serif typography integrated into composition, strong heroic silhouette figures, screen-print aesthetic.",
-  "paradox": "Gradient descent is an invisible, iterative mathematical process running inside a machine — yet WPA art was made to celebrate visible human labour and heroic physical effort. The algorithm becomes the worker.",
-  "visual_logic": "The loss surface maps to a mountain landscape; the hiker's descent visualises iterative parameter updates; the red valley minimum marks convergence. Flat colour and silhouette enforce the tradition's graphic grammar throughout."
+  "paradox": "A cold, mechanical algorithm — inhuman and iterative — rendered as a heroic human labour narrative, the very form WPA art used to celebrate collective human effort.",
+  "visual_logic": "The hiker's descent maps to iterative parameter updates; the mountain's valley marks the loss minimum; shrinking shadow depth toward the base signals convergence; heroic scale fuses algorithm and human struggle."
 }
