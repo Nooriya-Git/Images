@@ -1,7 +1,34 @@
 {
-  "prompt": "A vast, dark void stretching to infinity, filled with thousands of tiny flames...[your full prompt here]",
-  "model": "Midjourney v6.1",
-  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
-  "dataset_url": "https://www.unesco.org/languages-atlas/",
-  "insight": "Of Earth's approximately 7,000 languages, over 3,000 are endangered and one disappears every two weeks — each extinction erasing an irreplaceable way of thinking about the world."
+"scores": {
+"emotional_impact": {
+"score": 9.2,
+"reason": "The heavy atmosphere of rising smoke and the stark contrast between the charred forest of matchsticks and the tiny, flickering cluster of color creates a deep sense of mourning and fragility.",
+"improvement": "Incorporate subtle variations in the 'extinguished' sticks to hint at the timeline or specific nature of the loss."
+},
+"constraint_adherence": {
+"score": 10.0,
+"reason": "The submission flawlessly avoids all standard chart types and relies entirely on a unit-based visual metaphor with no text or legends.",
+"improvement": "None needed; the visual grammar strictly follows the no-labels, no-chart rule."
+},
+"visual_originality": {
+"score": 5.5,
+"reason": "While beautifully rendered, matchsticks/candles are a high-frequency visual cliché for depicting loss, extinction, or 'burnt out' populations.",
+"improvement": "Experiment with less conventional physical metaphors, such as eroding landscapes or changing biological textures, to escape common tropes."
+},
+"legibility_without_labels": {
+"score": 5.8,
+"reason": "The proportion of 'surviving' units is clear, but the lack of any contextual visual cues makes the specific subject matter (the 'fact') entirely anonymous.",
+"improvement": "Introduce a subtle visual identifier within the 'living' cluster—like a specific silhouette—to hint at what these units actually represent."
+},
+"compositional_intent": {
+"score": 8.7,
+"reason": "The use of shallow depth of field and the cinematic lighting on the 'survivors' shows a sophisticated eye for narrative focus.",
+"improvement": "Try a slightly wider angle to emphasize the overwhelming scale of the 'extinguished' majority against the single point of light."
+}
+},
+"overall_score": 7.8,
+"brief_met": true,
+"model_default_escaped": true,
+"exhibition_worthy": true,
+"one_line_verdict": "A hauntingly cinematic representation of extinction that prioritizes somber atmosphere over the legibility of its specific data."
 }
